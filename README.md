@@ -26,9 +26,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,git,github,nodejs" alt="stack">
 </p>
 
-<p>**Confident with:** HTML5, CSS3, Flexbox, Grid, responsive design, JavaScript (ES6+), React, Git</p>
-<p>**Also use:** Bootstrap, Figma, Wordpress</p>
-<p>**Currently learning:** TypeScript, Tailwind CSS, Node.js</p>
+<p>Confident with: HTML5, CSS3, Flexbox, Grid, responsive design, JavaScript (ES6+), React, Git</p>
+<p>Also use: Bootstrap, Figma, Wordpress</p>
+<p>Currently learning:** TypeScript, Tailwind CSS, Node.js</p>
 
 ---
 
