@@ -33,4 +33,4 @@
 ---
 
 
-<p align="center">📬 Open to opportunities — reach out at <a href="mailto:beketova.dev@gmail.com">beketova.dev@gmail.com</a></p>
+<p align="center">📬 Open to opportunities — reach out at <a href="mailto:hello@lyovo.io">hello@lyovo.io</a></p>
